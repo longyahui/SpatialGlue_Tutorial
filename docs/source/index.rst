@@ -18,5 +18,5 @@ Contents
 
 .. toctree::
 
-   Installation
+   Tutorial 1_data integration for mouse spleen SPOTS
    
